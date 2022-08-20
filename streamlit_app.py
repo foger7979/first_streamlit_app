@@ -1,3 +1,5 @@
-import streamlit
+import streamlit st
 
-streamlit.title("My Parents New Healthy Diner")
+st.title("My Parents New Healthy Diner")
+st.button('x')
+st.slider('y')
